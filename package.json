@@ -1,0 +1,15 @@
+{
+  "name": "tsconfig-freee",
+  "version": "0.0.1",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freee/tsconfig-freee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freee/tsconfig-freee/issues"
+  },
+  "homepage": "https://github.com/freee/tsconfig-freee#readme",
+  "author": "freee",
+  "license": "MIT"
+}
