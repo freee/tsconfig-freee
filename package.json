@@ -11,5 +11,8 @@
   },
   "homepage": "https://github.com/freee/tsconfig-freee#readme",
   "author": "freee",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "^3.6.5"
+  }
 }

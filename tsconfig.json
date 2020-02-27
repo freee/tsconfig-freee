@@ -5,6 +5,7 @@
     "jsx": "react",
     "module": "ESNext",
     "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "strict": true,
     "sourceMap": true,
