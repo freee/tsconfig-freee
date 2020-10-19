@@ -13,6 +13,6 @@
   "author": "freee",
   "license": "MIT",
   "peerDependencies": {
-    "typescript": "^3.6.5"
+    "typescript": "^3.6.5 || ^4.0.3"
   }
 }
